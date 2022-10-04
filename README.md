@@ -1,6 +1,6 @@
 # find_cutting_line
 - HSV萃取黑色 die saw 位置
-- Saturation再進行影像處理萃取 切割道 特徵
+- Saturation 再進行影像處理萃取 切割道 特徵
 - 判斷崩缺的方式有兩種：
    * die saw 超出 切割道線
    * die saw 崩缺超出最小寬度的30%
