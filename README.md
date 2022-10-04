@@ -6,4 +6,6 @@
    * die saw 崩缺超出最小寬度的30%
 
 ![截圖 2022-10-04 下午10 55 45](https://user-images.githubusercontent.com/107407057/193853205-d35f7a90-17b1-45ef-ac52-2276da5afbe6.png)
+![截圖 2022-10-04 下午11 03 28](https://user-images.githubusercontent.com/107407057/193855161-a25080ce-eba7-4ff8-9c9e-6236fefa80e2.png)
+
 
